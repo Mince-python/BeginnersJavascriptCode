@@ -1,0 +1,14 @@
+{
+  "name": "learningjs",
+  "version": "1.0.0",
+  "description": "I'm learning Js in this package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mince_python",
+  "license": "ISC",
+  "dependencies": {
+    "pkg": "^5.8.1"
+  }
+}
